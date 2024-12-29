@@ -11,6 +11,7 @@ Team Track is a web-based project management tool that helps teams efficiently t
 - Angular
 - HTML5/CSS3
 - TypeScript
+
 ##Backend
 - Spring Boot: RESTful APIs and business logic.
 - MySQL: Relational database for persistent data storage.
